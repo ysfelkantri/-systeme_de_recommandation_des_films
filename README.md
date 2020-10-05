@@ -1,4 +1,4 @@
-# -systeme_de_recommandation_des_films
+# systeme_de_recommandation_des_films
 collaboration for improving a movie recommendation system using artificial intelligence under python
 
 nous avons amélioré un système de recommandation des films. L’objectif de système est de fournir des recommandations de film précises aux utilisateurs. Généralement, les systèmes de recommandation de base considèrent l'un des facteurs suivants pour générer des recommandations :
